@@ -1,10 +1,16 @@
 {
-    "events": [
-        {
-            "id": 1,
-            "title": "Jogging",
-            "dateStart": "2020-01-29T17:41:28.652Z",
-            "dateEnd": "2020-01-29T18:41:28.652Z"
-        }
-    ]
+  "events": [
+    {
+      "title": "No name 2",
+      "dateStart": "2021-08-20T00:07:26.951Z",
+      "dateEnd": "2021-08-20T00:07:33.211Z",
+      "id": 1
+    },
+    {
+      "title": "WEED",
+      "dateStart": "2021-08-20T03:24:31.287Z",
+      "dateEnd": "2021-08-20T03:24:36.006Z",
+      "id": 2
+    }
+  ]
 }
